@@ -3,7 +3,7 @@
 
 학교와 연도를 선택해 슬라이드형 분석과 A4 인쇄본을 볼 수 있습니다.
 
-- [자료실 첫 화면](https://jjsjb88-alt.github.io/exam-trend-reports/)
+- [자료실 첫 화면](https://jjsjb88-alt.github.io/Transfer_Analysis/)
 - [강사·원장 보고서](전문가용.html) · [학생용 보고서](학생용.html)
 
 공개 배포용 HTML과 필요한 화면 파일을 보관하는 저장소입니다. A4는 브라우저 인쇄에서 PDF로 저장할 수 있습니다.
